@@ -276,7 +276,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 24633569,"Osmanodja, Filiz",GER,1996.0,WGrandmaster,2293,2154.0,2320.0,active,20-30
 938238,"Eric, Jovana",SRB,1992.0,WGrandmaster,2292,2199.0,2233.0,active,20-30
 13701037,"Sergeyeva, Mariya",KAZ,1983.0,WGrandmaster,2291,,2323.0,active,30-40
-4611870,"Keller-Hermann, Edith",GER,1921.0,WGrandmaster,2290,,,inactive,90-100
+4611870,"Keller-Hermann, Edith",GER,1921.0,WGrandmaster,2290,,,inactive,90+
 4123662,"Lopatskaya, Elena V.",RUS,1976.0,WInternational Master-W,2290,,,inactive,40-50
 14103885,"Shved, Irina",UKR,1970.0,WInternational Master-W,2290,,,inactive,50-60
 8614300,"Song, Yuxin",CHN,2005.0,WInternational Master-W,2290,2092.0,2192.0,active,10-20
@@ -652,7 +652,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 5000882,"Khadilkar, Rohini",IND,1963.0,WInternational Master-W,2215,,,inactive,50-60
 3504794,"Linares Napoles, Oleiny",CUB,1983.0,WGrandmaster,2215,,2357.0,active,30-40
 4127609,"Mashinskaya, Iulia",RUS,1977.0,International Master-W,2215,2160.0,,inactive,40-50
-909807,"Nedeljkovic, Verica",SRB,1929.0,WGrandmaster,2215,,,inactive,90-100
+909807,"Nedeljkovic, Verica",SRB,1929.0,WGrandmaster,2215,,,inactive,90+
 11602252,"Ni, Viktorija",USA,1991.0,WInternational Master-W,2215,2125.0,2183.0,inactive,20-30
 2097478,"Samadashvili, Martha",USA,2004.0,FIDE Master-W,2215,,,active,10-20
 4122682,"Vlasova, Nataliya",RUS,1980.0,WInternational Master-W,2215,2020.0,2032.0,inactive,40-50
@@ -1324,7 +1324,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 4107098,"Kozlovskaya, Valentina",RUS,1938.0,WGrandmaster,2140,2060.0,2099.0,active,80-90
 1107771,"Kuczewska, Izabela",POL,1964.0,No Title,2140,,,inactive,50-60
 4122925,"Kuznetsova, Olga",RUS,1975.0,No Title,2140,,,inactive,40-50
-1104519,"Litmanowicz, Miroslawa",POL,1928.0,WInternational Master-W,2140,,,inactive,90-100
+1104519,"Litmanowicz, Miroslawa",POL,1928.0,WInternational Master-W,2140,,,inactive,90+
 308366,"Lnenickova, Gabriela",CZE,1979.0,WInternational Master-W,2140,,,inactive,40-50
 4113098,"Magomedova, Zagrat",RUS,1989.0,No Title,2140,,,inactive,30-40
 24178772,"Maslova, Polina",RUS,1999.0,FIDE Master-W,2140,2035.0,1949.0,inactive,20-30
@@ -1862,14 +1862,14 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 801500,"Pernici, Barbara",ITA,1956.0,FIDE Master-W,2105,,,inactive,60-70
 4110404,"Poliakova, N.",RUS,,No Title,2105,,,inactive,
 1302329,"Ramseier, Jana S.",SUI,1969.0,FIDE Master-W,2105,,,inactive,50-60
-1104624,"Rybarska, Janina",POL,1926.0,No Title,2105,,,inactive,90-100
+1104624,"Rybarska, Janina",POL,1926.0,No Title,2105,,,inactive,90+
 1104608,"Smiechowska, Joanna",POL,1972.0,No Title,2105,,,inactive,40-50
 1204793,"Ursuleac, Nicoleta-Viorica",ROU,1969.0,FIDE Master-W,2105,2059.0,,inactive,50-60
 4130677,"Ushakova, Natalia",RUS,1980.0,FIDE Master-W,2105,,,inactive,40-50
 1134043,"Adamowicz, Katarzyna",POL,1993.0,FIDE Master-W,2104,2094.0,2044.0,inactive,20-30
 700576,"Csonkics, Tunde",HUN,1958.0,WGrandmaster,2104,2021.0,2091.0,active,60-70
 14512670,"Deur Saric, Zrinka",CRO,1991.0,FIDE Master-W,2104,2158.0,2113.0,inactive,20-30
-302538,"Eretova, Kveta",CZE,1926.0,WGrandmaster,2104,,,inactive,90-100
+302538,"Eretova, Kveta",CZE,1926.0,WGrandmaster,2104,,,inactive,90+
 32041144,"Galvan Cipriani, Viviana",ESP,2004.0,FIDE Master-W,2104,1904.0,1919.0,active,10-20
 13702416,"Korytina, Natalia",KAZ,1989.0,FIDE Master-W,2104,1981.0,2010.0,inactive,30-40
 24145564,"Kosolapova, Lilia",RUS,1993.0,No Title,2104,2062.0,1959.0,inactive,20-30
@@ -2204,7 +2204,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 5038650,"Gagare, Shalmali",IND,1994.0,WInternational Master-W,2087,2017.0,1976.0,active,20-30
 909440,"Ivanisevic, Dusica",SRB,1958.0,WInternational Master-W,2087,,,active,60-70
 730211,"Kiss, Kinga",HUN,1991.0,FIDE Master-W,2087,,,inactive,20-30
-4152980,"Missilina, Raisa",RUS,1928.0,No Title,2087,,,inactive,90-100
+4152980,"Missilina, Raisa",RUS,1928.0,No Title,2087,,,inactive,90+
 2100649,"Moyses, Ivone",BRA,1945.0,No Title,2087,2060.0,,inactive,70-80
 4109082,"Shestoperova, Aleksandra S",RUS,1941.0,FIDE Master-W,2087,,,inactive,70-80
 13401742,"Shiraliyeva, Fizza",AZE,,No Title,2087,,,inactive,
@@ -2345,7 +2345,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 4500466,"Teemae, Ulvi",EST,1964.0,No Title,2080,,,inactive,50-60
 24111031,"Vagidova, Umatlyu",RUS,1994.0,FIDE Master-W,2080,,,inactive,20-30
 302643,"Vlasakova, Petra",CZE,1965.0,No Title,2080,,,inactive,50-60
-1001710,"Vreeken, Corry",NED,1928.0,Honorary Grandmaster-W,2080,,,inactive,90-100
+1001710,"Vreeken, Corry",NED,1928.0,Honorary Grandmaster-W,2080,,,inactive,90+
 34124907,"Zotova, Anastasia",RUS,2002.0,FIDE Master-W,2080,1941.0,1967.0,active,10-20
 13703951,"Alimgozhina, Elmira",KAZ,1989.0,FIDE Master-W,2079,,,inactive,30-40
 600512,"Auvray, Honorine",FRA,1998.0,FIDE Master-W,2079,2039.0,1977.0,active,20-30
@@ -3343,7 +3343,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 1104900,"Pietrunko, Alicja",POL,1959.0,No Title,2035,,,inactive,60-70
 910899,"Ridjicki, Nada",SRB,1956.0,No Title,2035,,,inactive,60-70
 13704923,"Rysbayeva, Korlan",KAZ,1993.0,No Title,2035,2049.0,2065.0,inactive,20-30
-704733,"Sinka, Brigitta",HUN,1928.0,No Title,2035,,,inactive,90-100
+704733,"Sinka, Brigitta",HUN,1928.0,No Title,2035,,,inactive,90+
 404640,"Thompson, Tracey",ENG,1975.0,No Title,2035,,,inactive,40-50
 11600527,"Veja, Ginta",LAT,1978.0,No Title,2035,1975.0,1884.0,inactive,40-50
 2903806,"Zagorova, Petia",BUL,1973.0,No Title,2035,,,inactive,40-50
@@ -3382,7 +3382,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 910783,"Kis, Tina",SRB,1967.0,No Title,2033,,,inactive,50-60
 14119315,"Kovaliova, Valeria",UKR,1992.0,No Title,2033,,,inactive,20-30
 14201500,"Kuznetsova, Olga",UZB,1987.0,No Title,2033,,,inactive,30-40
-2004690,"Olsson, Greta",USA,1929.0,No Title,2033,,,inactive,90-100
+2004690,"Olsson, Greta",USA,1929.0,No Title,2033,,,inactive,90+
 8617619,"Pan,Shimei",CHN,2000.0,No Title,2033,,,inactive,20-30
 14902923,"Pokorna, Renata",SVK,1980.0,No Title,2033,,,inactive,40-50
 2219824,"Redondo Arguelles, Graciela",ESP,1979.0,FIDE Master-W,2033,1984.0,,active,40-50
@@ -3440,7 +3440,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 1160036,"Cieslak, Wiktoria",POL,2000.0,No Title,2030,1951.0,1939.0,active,20-30
 1901192,"Coimbra, Margarida",POR,1983.0,FIDE Master-W,2030,2071.0,2115.0,inactive,30-40
 13302094,"Darbinyan, Ani",ARM,1987.0,No Title,2030,,,inactive,30-40
-2004739,"Donnelly, Ruth",USA,1920.0,No Title,2030,,,inactive,100+
+2004739,"Donnelly, Ruth",USA,1920.0,No Title,2030,,,inactive,90+
 4608917,"Eimert-Buchmueller, Gaby",GER,1951.0,No Title,2030,,,inactive,60-70
 4175522,"Fomkina, Ekaterina",RUS,1987.0,FIDE Master-W,2030,1903.0,1863.0,inactive,30-40
 3508374,"Gomez Gomez, Yudelsi",CUB,1988.0,No Title,2030,,,inactive,30-40
@@ -3715,7 +3715,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 7101430,"Zakiah, AI",INA,1973.0,No Title,2019,,,inactive,40-50
 13705245,"Abylkassymova, Raushan",KAZ,1993.0,No Title,2018,,1974.0,inactive,20-30
 1701673,"Bengtsson, Siv",SWE,1963.0,No Title,2018,1947.0,,active,50-60
-1001833,"Haagsma, Jeanette",NED,1926.0,No Title,2018,,,inactive,90-100
+1001833,"Haagsma, Jeanette",NED,1926.0,No Title,2018,,,inactive,90+
 34219366,"Kleymenova, Valeria",RUS,2008.0,No Title,2018,1602.0,1821.0,active,10-20
 8608946,"Li, Tingshu",CHN,,No Title,2018,,,inactive,
 12538078,"Majidian, Laleh",IRI,1967.0,No Title,2018,,,inactive,50-60
@@ -3730,7 +3730,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 1104829,"Domaradzka-Zyla, Anna",POL,1968.0,No Title,2017,1812.0,,inactive,50-60
 2103079,"Gomes, Jainy R. Magalhaes",BRA,1975.0,No Title,2017,,,inactive,40-50
 13703463,"Kamzina, Saule",KAZ,,No Title,2017,,,inactive,
-4608410,"Karner, Irmgard",GER,1927.0,No Title,2017,,,inactive,90-100
+4608410,"Karner, Irmgard",GER,1927.0,No Title,2017,,,inactive,90+
 1104594,"Kasprzyk, Irena",POL,1950.0,FIDE Master-W,2017,,,inactive,70-80
 7600666,"Khalifeh, Diana",SYR,,FIDE Master-W,2017,,,inactive,
 24133680,"Kobozeva, Viktoria",RUS,1998.0,No Title,2017,1932.0,1848.0,active,20-30
@@ -3958,7 +3958,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 34101796,"Guliashvili, Liana",RUS,1994.0,No Title,2009,1933.0,2036.0,inactive,20-30
 4176863,"Gvilava, Maya",RUS,1991.0,FIDE Master-W,2009,,1943.0,inactive,20-30
 4170113,"Kariakina, Marina",RUS,1986.0,No Title,2009,,,inactive,30-40
-4130332,"Kotziuba, V.",RUS,1928.0,No Title,2009,,,inactive,90-100
+4130332,"Kotziuba, V.",RUS,1928.0,No Title,2009,,,inactive,90+
 14408902,"Maksimovic, Masa",BIH,2001.0,FIDE Master-W,2009,2031.0,1922.0,active,10-20
 13403060,"Mammadbayova, Farida",AZE,1993.0,No Title,2009,,,inactive,20-30
 14115891,"Nachevna, Oksana",UKR,1980.0,No Title,2009,,,inactive,40-50
@@ -4133,7 +4133,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 2004780,"Sterngold, Susan",USA,1949.0,No Title,2005,,,inactive,70-80
 15000893,"Stojanovska, Ljiljana",MKD,,No Title,2005,,,inactive,
 4300297,"Stretch, Winsome R",NZL,1951.0,No Title,2005,,,inactive,60-70
-1105035,"Szpakowska, Aleksandra",POL,1929.0,No Title,2005,,,inactive,90-100
+1105035,"Szpakowska, Aleksandra",POL,1929.0,No Title,2005,,,inactive,90+
 4400615,"Tabares, Gloria",COL,1972.0,No Title,2005,,,inactive,40-50
 1105043,"Tancula, Aldona",POL,1957.0,No Title,2005,,,inactive,60-70
 3200612,"Thomson, Mary",AUS,,No Title,2005,,,inactive,
@@ -4156,7 +4156,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 642401,"Gadarinian, Caroline",FRA,1989.0,No Title,2004,2008.0,1938.0,inactive,30-40
 20692749,"Imperor, Amelie",FRA,2001.0,No Title,2004,1575.0,1575.0,inactive,10-20
 769584,"Karacsonyi, Kata",HUN,2006.0,No Title,2004,1802.0,1731.0,active,10-20
-4152999,"Kravchenko, Klara",RUS,1926.0,No Title,2004,,,inactive,90-100
+4152999,"Kravchenko, Klara",RUS,1926.0,No Title,2004,,,inactive,90+
 12997692,"Leser, Katrin",GER,2000.0,No Title,2004,1947.0,,active,20-30
 7401302,"Miller, Rachel",JAM,2000.0,Candidate Master,2004,,,active,20-30
 24160679,"Mokshanova, Elizaveta",RUS,1998.0,FIDE Master-W,2004,1996.0,1891.0,active,20-30
@@ -4544,7 +4544,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 2271230,"Castejon Caballero, Natalia",ESP,1989.0,FIDE Master-W,1984,,1931.0,inactive,30-40
 2104520,"Delai, Paula Fernanda",BRA,1981.0,FIDE Master-W,1984,,,inactive,30-40
 7102380,"Dian Cheri, Stefani",INA,1988.0,No Title,1984,,,inactive,30-40
-1617389,"Duer, Maria",AUT,1927.0,No Title,1984,,,inactive,90-100
+1617389,"Duer, Maria",AUT,1927.0,No Title,1984,,,inactive,90+
 2301385,"Gretarsdottir, Lilja",ISL,1972.0,WInternational Master-W,1984,,,inactive,40-50
 14201771,"Kakhramonova, Mokhinur",UZB,1996.0,No Title,1984,1973.0,2005.0,inactive,20-30
 1115553,"Kotwicka, Maja",POL,1982.0,No Title,1984,,,inactive,30-40
@@ -5479,7 +5479,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 34127906,"Sarycheva, Anastasia",RUS,1998.0,No Title,1937,1922.0,1931.0,inactive,20-30
 173649,"Semprevivo, Florencia",ARG,1990.0,No Title,1937,1938.0,1977.0,active,30-40
 12517410,"Torabi, Neda",IRI,1979.0,No Title,1937,,,inactive,40-50
-4149289,"Trotsenko, Evgenia",RUS,1929.0,FIDE Master-W,1937,1909.0,1840.0,inactive,90-100
+4149289,"Trotsenko, Evgenia",RUS,1929.0,FIDE Master-W,1937,1909.0,1840.0,inactive,90+
 4153901,"Tsepennikova, Tatyana",RUS,1971.0,FIDE Master-W,1937,1956.0,2021.0,active,40-50
 14202069,"Turdialieva, Tahmina",UZB,1991.0,No Title,1937,,,inactive,20-30
 21807663,"Wikar, Martyna",POL,2005.0,No Title,1937,1790.0,1980.0,active,10-20
@@ -5742,7 +5742,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 24136611,"Egorova, Ayyyna",RUS,1998.0,Candidate Master-W,1924,1894.0,1933.0,inactive,20-30
 5207045,"Enriquez, Jean Karen",PHI,1996.0,No Title,1924,1875.0,1981.0,inactive,20-30
 32092652,"Gillis Onieva, Celia",ESP,2001.0,No Title,1924,1520.0,,active,10-20
-4149262,"Katzkova, Olga",RUS,1928.0,No Title,1924,1776.0,1986.0,inactive,90-100
+4149262,"Katzkova, Olga",RUS,1928.0,No Title,1924,1776.0,1986.0,inactive,90+
 6201520,"Koosiripanit, Worakamon",THA,1980.0,No Title,1924,,,inactive,40-50
 16254120,"Leuchsenring, Christina",GER,1981.0,No Title,1924,,,active,30-40
 1127365,"Lewandowska, Anika",POL,1984.0,No Title,1924,1888.0,1979.0,inactive,30-40
@@ -5872,7 +5872,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 7500394,"Delemarre, Maria Elisabeth",AHO,1975.0,No Title,1917,,,inactive,40-50
 954918,"Djordjevic, Nevena",SRB,2004.0,No Title,1917,1752.0,1799.0,active,10-20
 3900940,"Duran Reina, Luisa Elena",VEN,1982.0,WInternational Master-W,1917,1820.0,1851.0,inactive,30-40
-1617397,"Hausner, Alfreda",AUT,1927.0,No Title,1917,,,inactive,90-100
+1617397,"Hausner, Alfreda",AUT,1927.0,No Title,1917,,,inactive,90+
 1129805,"Jackiewicz, Katarzyna",POL,1990.0,No Title,1917,,,inactive,30-40
 1193473,"Kostecka, Marika",POL,2001.0,Candidate Master-W,1917,1551.0,1649.0,active,10-20
 1141813,"Kowara, Magdalena",POL,1992.0,No Title,1917,1824.0,1864.0,inactive,20-30
@@ -6871,7 +6871,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 12952192,"Peters, Theresa",GER,2000.0,No Title,1871,1902.0,,active,20-30
 116947,"Randaxhe, Luciana",ARG,1988.0,No Title,1871,1969.0,1919.0,inactive,30-40
 3403920,"Reyes Jara, Paula",CHI,1984.0,FIDE Master-W,1871,1920.0,1936.0,active,30-40
-4687035,"Richter, Hildegard",GER,1929.0,No Title,1871,,,inactive,90-100
+4687035,"Richter, Hildegard",GER,1929.0,No Title,1871,,,inactive,90+
 24195340,"Sargsyan, Anna",ESP,2002.0,No Title,1871,1677.0,1708.0,active,10-20
 12918199,"Schumann, Rabea",GER,1999.0,No Title,1871,1897.0,,active,20-30
 1160125,"Stebel, Agata",POL,2000.0,No Title,1871,1735.0,1783.0,active,20-30
@@ -7778,7 +7778,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 710490,"Adam, Olga",HUN,1980.0,No Title,1832,,,active,40-50
 7602103,"Ahmad Murad,Fatema Alzahraa.",SYR,2002.0,No Title,1832,1568.0,1596.0,inactive,10-20
 13402366,"Beydullayeva, Rafiga",AZE,1984.0,No Title,1832,,,inactive,30-40
-302813,"Boskova, Herta",CZE,1930.0,No Title,1832,,,inactive,90-100
+302813,"Boskova, Herta",CZE,1930.0,No Title,1832,,,inactive,90+
 699330,"Cecillon, Margot",FRA,1990.0,No Title,1832,,,active,30-40
 644510,"Durant Tatard, Marie",FRA,1988.0,No Title,1832,,1826.0,active,30-40
 4501560,"Hanzatjan, Elvira",EST,1995.0,No Title,1832,1710.0,1730.0,inactive,20-30
@@ -8129,7 +8129,7 @@ Fide id,Name,Federation,Year_of_birth,Title,Standard_Rating,Rapid_rating,Blitz_r
 14169215,"Usyk, Anastasiia",UKR,2001.0,No Title,1819,1646.0,1791.0,active,10-20
 1418262,"Vehl, Tina",DEN,1979.0,No Title,1819,,,active,40-50
 14200015,"Afolayan, Marjona",UZB,1996.0,No Title,1818,,,inactive,20-30
-24142166,"Aleksyuk, Varvara",RUS,1929.0,No Title,1818,,,inactive,90-100
+24142166,"Aleksyuk, Varvara",RUS,1929.0,No Title,1818,,,inactive,90+
 24154547,"Bogun, Alisa",RUS,1993.0,No Title,1818,,,inactive,20-30
 332089,"Cuprova, Iva",CZE,1991.0,No Title,1818,,,inactive,20-30
 821411,"De Nisi, Roberta",ITA,1978.0,No Title,1818,1806.0,,active,40-50
